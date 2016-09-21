@@ -2,7 +2,7 @@
 <Package name="Imitation gestures" format_version="4">
     <Manifest src="manifest.xml" />
     <BehaviorDescriptions>
-        <BehaviorDescription name="behavior" src="Drinking" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="Drinking (right)" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
     <Resources />

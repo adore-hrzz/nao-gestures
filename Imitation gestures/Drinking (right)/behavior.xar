@@ -15,7 +15,7 @@
             <BehaviorLayer name="behavior_layer1">
                 <BehaviorKeyframe name="keyframe1" index="1">
                     <Diagram>
-                        <Box name="Drinking" id="1" localization="8" tooltip="Drinking animation." x="446" y="153">
+                        <Box name="Drinking (right)" id="1" localization="8" tooltip="Drinking animation." x="446" y="153">
                             <bitmap>media/images/box/movement/move.png</bitmap>
                             <script language="4">
                                 <content>
@@ -148,6 +148,8 @@
                                 </ActuatorList>
                             </Timeline>
                         </Box>
+                        <Link inputowner="1" indexofinput="2" outputowner="0" indexofoutput="2" />
+                        <Link inputowner="0" indexofinput="4" outputowner="1" indexofoutput="4" />
                     </Diagram>
                 </BehaviorKeyframe>
             </BehaviorLayer>

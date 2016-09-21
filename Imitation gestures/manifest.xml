@@ -13,7 +13,7 @@
   <language>en_US</language>
  </descriptionLanguages>
  <contents>
-  <behaviorContent path="Drinking">
+  <behaviorContent path="Drinking (right)">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
