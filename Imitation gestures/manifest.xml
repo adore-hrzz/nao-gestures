@@ -17,5 +17,9 @@
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
+  <behaviorContent path="Drinking (left)">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
  </contents>
 </package>

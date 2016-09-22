@@ -3,6 +3,7 @@
     <Manifest src="manifest.xml" />
     <BehaviorDescriptions>
         <BehaviorDescription name="behavior" src="Drinking (right)" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="Drinking (left)" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
     <Resources>
@@ -10,5 +11,10 @@
         <File name="drinking" src="sounds/drinking.wav" />
     </Resources>
     <Topics />
-    <IgnoredPaths />
+    <IgnoredPaths>
+        <Path src=".gitignore" />
+        <Path src=".gitignore~" />
+        <Path src="sounds/download_sounds.sh~" />
+        <Path src="sounds/download_sounds.sh" />
+    </IgnoredPaths>
 </Package>
