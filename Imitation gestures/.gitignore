@@ -1,0 +1,5 @@
+# Ignore audio files (they are binary so should be downloaded separately)
+*.wav
+
+# Emacs droppings
+*~

@@ -5,7 +5,10 @@
         <BehaviorDescription name="behavior" src="Drinking (right)" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
-    <Resources />
+    <Resources>
+        <File name="320139__owlstorm__drink-sip-and-swallow" src="sounds/320139__owlstorm__drink-sip-and-swallow.wav" />
+        <File name="drinking" src="sounds/drinking.wav" />
+    </Resources>
     <Topics />
     <IgnoredPaths />
 </Package>
