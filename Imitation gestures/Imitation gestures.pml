@@ -6,18 +6,18 @@
         <BehaviorDescription name="behavior" src="Drinking (left)" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="Frog (right)" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="Frog (left)" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="Sada ti (right)" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="Sada ti (left)" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
     <Resources>
         <File name="drinking" src="sounds/drinking.wav" />
         <File name="frog" src="sounds/frog.wav" />
+        <File name="sada_ti" src="sounds/sada_ti.wav" />
     </Resources>
     <Topics />
     <IgnoredPaths>
         <Path src=".gitignore" />
         <Path src=".gitignore~" />
-        <Path src="sounds/320139__owlstorm__drink-sip-and-swallow.wav" />
-        <Path src="sounds/download_sounds.sh" />
-        <Path src="sounds/50406__cs272__frog-ribbit.mp3" />
     </IgnoredPaths>
 </Package>
