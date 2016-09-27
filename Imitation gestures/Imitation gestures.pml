@@ -19,5 +19,6 @@
     <IgnoredPaths>
         <Path src=".gitignore" />
         <Path src=".gitignore~" />
+        <Path src="sounds/download_sounds.sh" />
     </IgnoredPaths>
 </Package>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <package version="0.1.0" uuid="imitationgestures-359a39">
  <names>
-  <name lang="en_US">Imitation gestures</name>
+  <name lang="en_US">Adore imitation gestures</name>
  </names>
  <descriptions>
   <description lang="en_US">Gestures for ASD diagnostics imitation tasks.</description>
