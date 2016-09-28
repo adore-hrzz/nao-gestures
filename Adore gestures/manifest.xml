@@ -49,7 +49,7 @@
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="Pokusaj ponovo">
+  <behaviorContent path="Pokusajmo ponovo">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
