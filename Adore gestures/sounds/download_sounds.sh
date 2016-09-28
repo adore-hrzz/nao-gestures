@@ -19,6 +19,6 @@ wget --no-check-certificate -O salica.wav "http://larics.rasip.fer.hr/laricsclou
 
 
 # Encouragement for imitation "A sada ti", TTS Marica v4.2
-wget --no-check-certificate -O frog.wav "http://larics.rasip.fer.hr/laricscloud/index.php/s/gNW8Xr9h7TGrUzZ/download"
+wget --no-check-certificate -O sada_ti.wav "http://larics.rasip.fer.hr/laricscloud/index.php/s/gNW8Xr9h7TGrUzZ/download"
 
 echo "Done!"

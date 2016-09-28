@@ -26,5 +26,6 @@
         <Path src=".gitignore" />
         <Path src=".gitignore~" />
         <Path src="sounds/download_sounds.sh" />
+        <Path src="sounds/drinking.wav" />
     </IgnoredPaths>
 </Package>
