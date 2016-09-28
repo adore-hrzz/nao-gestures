@@ -17,8 +17,10 @@ wget --no-check-certificate -O zaba.wav "http://larics.rasip.fer.hr/laricscloud/
 # Introduction to functional imitation "Ovo je salica"
 wget --no-check-certificate -O salica.wav "http://larics.rasip.fer.hr/laricscloud/index.php/s/JiKKnhjeY8tkSoX/download"
 
-
 # Encouragement for imitation "A sada ti", TTS Marica v4.2
 wget --no-check-certificate -O sada_ti.wav "http://larics.rasip.fer.hr/laricscloud/index.php/s/gNW8Xr9h7TGrUzZ/download"
+
+# Recouragement for imitation "Pokusajmo ponovo", TTS Marica v4.2
+wget --no-check-certificate -O pokusajmoponovo.wav "http://larics.rasip.fer.hr/laricscloud/index.php/s/yHrGA9e2k8BZXJn/download"
 
 echo "Done!"

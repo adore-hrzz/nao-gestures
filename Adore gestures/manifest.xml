@@ -49,5 +49,9 @@
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
+  <behaviorContent path="Pokusaj ponovo">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
  </contents>
 </package>

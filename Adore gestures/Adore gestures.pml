@@ -11,6 +11,7 @@
         <BehaviorDescription name="behavior" src="Vidi ovo" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="Ovo je zaba" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="Ovo je salica" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="Pokusajmo ponovo" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
     <Resources>
@@ -20,6 +21,7 @@
         <File name="vidiovo" src="sounds/vidiovo.wav" />
         <File name="zaba" src="sounds/zaba.wav" />
         <File name="salica" src="sounds/salica.wav" />
+        <File name="pokusajmoponovo" src="sounds/pokusajmoponovo.wav" />
     </Resources>
     <Topics />
     <IgnoredPaths>
