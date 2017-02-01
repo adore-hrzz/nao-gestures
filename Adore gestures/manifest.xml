@@ -15,42 +15,122 @@
  <contents>
   <behaviorContent path="Drinking (right)">
    <nature>interactive</nature>
+   <names>
+    <name lang="en_US">Drinking (right)</name>
+   </names>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="Drinking (left)">
    <nature>interactive</nature>
+   <names>
+    <name lang="en_US">Drinking (left)</name>
+   </names>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="Frog (right)">
    <nature>interactive</nature>
+   <names>
+    <name lang="en_US">Frog (right)</name>
+   </names>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="Frog (left)">
    <nature>interactive</nature>
+   <names>
+    <name lang="en_US">Frog (left)</name>
+   </names>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="Sada ti (right)">
    <nature>interactive</nature>
+   <names>
+    <name lang="en_US">Sada ti (right)</name>
+   </names>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="Sada ti (left)">
    <nature>interactive</nature>
+   <names>
+    <name lang="en_US">Sada ti (left)</name>
+   </names>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="Vidi ovo">
    <nature>interactive</nature>
+   <names>
+    <name lang="en_US">Vidi ovo</name>
+   </names>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="Ovo je zaba">
    <nature>interactive</nature>
+   <names>
+    <name lang="en_US">Ovo je zaba</name>
+   </names>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="Ovo je salica">
    <nature>interactive</nature>
+   <names>
+    <name lang="en_US">Ovo je salica</name>
+   </names>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="Pokusajmo ponovo">
    <nature>interactive</nature>
+   <names>
+    <name lang="en_US">Pokusajmo ponovo</name>
+   </names>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="Assist (left)">
+   <nature>interactive</nature>
+   <names>
+    <name lang="en_US">Assist (left)</name>
+   </names>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="Assist (right)">
+   <nature>interactive</nature>
+   <names>
+    <name lang="en_US">Assist (right)</name>
+   </names>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
  </contents>

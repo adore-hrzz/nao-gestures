@@ -12,6 +12,8 @@
         <BehaviorDescription name="behavior" src="Ovo je zaba" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="Ovo je salica" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="Pokusajmo ponovo" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="Assist (left)" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="Assist (right)" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
     <Resources>
@@ -22,11 +24,11 @@
         <File name="zaba" src="sounds/zaba.wav" />
         <File name="salica" src="sounds/salica.wav" />
         <File name="pokusajmoponovo" src="sounds/pokusajmoponovo.wav" />
+        <File name="icon" src="icon.png" />
     </Resources>
     <Topics />
     <IgnoredPaths>
         <Path src=".gitignore" />
-        <Path src=".gitignore~" />
         <Path src="sounds/download_sounds.sh" />
         <Path src="sounds/drinking.wav" />
     </IgnoredPaths>
