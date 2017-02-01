@@ -12,10 +12,11 @@
         <BehaviorDescription name="behavior" src="Ovo je zaba" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="Ovo je salica" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="Pokusajmo ponovo" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="Assist (left)" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="Assist (right)" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
     <Resources>
-        <File name="download_sounds" src="sounds/download_sounds.sh" />
         <File name="drinking" src="sounds/drinking.wav" />
         <File name="hajde_probaj_ti" src="sounds/hajde_probaj_ti.wav" />
         <File name="krekre" src="sounds/krekre.wav" />
@@ -28,5 +29,8 @@
     <IgnoredPaths>
         <Path src=".gitignore" />
         <Path src=".gitignore~" />
+        <Path src="sounds/download_sounds.sh" />
+        <Path src="icon.png" />
+        <Path src="Adore gestures.pml.orig" />
     </IgnoredPaths>
 </Package>
