@@ -15,19 +15,18 @@
     </BehaviorDescriptions>
     <Dialogs />
     <Resources>
+        <File name="download_sounds" src="sounds/download_sounds.sh" />
         <File name="drinking" src="sounds/drinking.wav" />
-        <File name="frog" src="sounds/frog.wav" />
-        <File name="sada_ti" src="sounds/sada_ti.wav" />
-        <File name="vidiovo" src="sounds/vidiovo.wav" />
-        <File name="zaba" src="sounds/zaba.wav" />
-        <File name="salica" src="sounds/salica.wav" />
-        <File name="pokusajmoponovo" src="sounds/pokusajmoponovo.wav" />
+        <File name="hajde_probaj_ti" src="sounds/hajde_probaj_ti.wav" />
+        <File name="krekre" src="sounds/krekre.wav" />
+        <File name="ovo_je_salica" src="sounds/ovo_je_salica.wav" />
+        <File name="ovo_je_zaba" src="sounds/ovo_je_zaba.wav" />
+        <File name="probajmo_ponovo" src="sounds/probajmo_ponovo.wav" />
+        <File name="vidi_ovo" src="sounds/vidi_ovo.wav" />
     </Resources>
     <Topics />
     <IgnoredPaths>
         <Path src=".gitignore" />
         <Path src=".gitignore~" />
-        <Path src="sounds/download_sounds.sh" />
-        <Path src="sounds/drinking.wav" />
     </IgnoredPaths>
 </Package>

@@ -2,25 +2,26 @@
 
 echo "Downloading sounds..."
 
-# Drinking sound, edited from http://freesound.org/people/OwlStorm/sounds/320139/
-wget --no-check-certificate -O drinking.wav "http://larics.rasip.fer.hr/laricscloud/index.php/s/SI7EX2WdtdUWDIc/download"
 
-# Frog sound, edited from http://freesound.org/people/cs272/sounds/50406/
-wget --no-check-certificate -O frog.wav "http://larics.rasip.fer.hr/laricscloud/index.php/s/iDRCOr0aoFwjUtC/download"
+# Drinking sound, edited from http://freesound.org/people/OwlStorm/sounds/320139/
+wget -O drinking.wav "https://drive.google.com/uc?export=download&id=0ByIZc3t3wyJoNFduNlo2UUNUWk0"
+
+# Frog imitation "Kreekree", AlfaNum TTS Marica v4.2
+wget -O krekre.wav "https://drive.google.com/uc?export=download&id=0ByIZc3t3wyJoeFJ5Z0Q1UUdxcmc"
 
 # Introduction to functional imitation "Vidi ovo"
-wget --no-check-certificate -O vidiovo.wav "http://larics.rasip.fer.hr/laricscloud/index.php/s/OaZ7WW7fviR1Twi/download"
+wget -O vidi_ovo.wav "https://drive.google.com/uc?export=download&id=0ByIZc3t3wyJoam1hbHlUMFdMODQ"
 
 # Introduction to symbolic imitation "Ovo je zaba"
-wget --no-check-certificate -O zaba.wav "http://larics.rasip.fer.hr/laricscloud/index.php/s/yN9KVTrNl3SfGVa/download"
+wget -O ovo_je_zaba.wav "https://drive.google.com/uc?export=download&id=0ByIZc3t3wyJoRGF6Y3N5cnczVm8"
 
 # Introduction to functional imitation "Ovo je salica"
-wget --no-check-certificate -O salica.wav "http://larics.rasip.fer.hr/laricscloud/index.php/s/JiKKnhjeY8tkSoX/download"
+wget -O ovo_je_salica.wav "https://drive.google.com/uc?export=download&id=https://drive.google.com/open?id=0ByIZc3t3wyJoS3U3aWVITlIxbTA"
 
-# Encouragement for imitation "A sada ti", TTS Marica v4.2
-wget --no-check-certificate -O sada_ti.wav "http://larics.rasip.fer.hr/laricscloud/index.php/s/gNW8Xr9h7TGrUzZ/download"
+# Encouragement for imitation "Hajde, probaj ti", TTS Marica v4.2
+wget -O hajde_probaj_ti.wav "https://drive.google.com/uc?export=download&id=0ByIZc3t3wyJoVEZIbzY4VlFobzg"
 
-# Recouragement for imitation "Pokusajmo ponovo", TTS Marica v4.2
-wget --no-check-certificate -O pokusajmoponovo.wav "http://larics.rasip.fer.hr/laricscloud/index.php/s/yHrGA9e2k8BZXJn/download"
+# Recouragement for imitation "Probajmo ponovo", TTS Marica v4.2
+wget -O probajmo_ponovo.wav "https://drive.google.com/uc?export=download&id=0ByIZc3t3wyJoVm5pMmFqY1lWNG8"
 
 echo "Done!"

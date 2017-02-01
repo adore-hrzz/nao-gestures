@@ -15,7 +15,7 @@
             <BehaviorLayer name="behavior_layer1">
                 <BehaviorKeyframe name="keyframe1" index="1">
                     <Diagram>
-                        <Box name="Drinking (right)" id="1" localization="8" tooltip="Drinking animation." x="446" y="153">
+                        <Box name="Drinking (right)" id="1" localization="8" tooltip="Drinking animation." x="319" y="123">
                             <bitmap>media/images/box/movement/move.png</bitmap>
                             <script language="4">
                                 <content>
