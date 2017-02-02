@@ -464,14 +464,14 @@ class MyClass(GeneratedClass):
                                         <Key frame="159" value="-15.3786" />
                                     </ActuatorCurve>
                                     <ActuatorCurve name="value" actuator="LHand" recordable="0" mute="0" unit="1">
-                                        <Key frame="16" value="0.0743999" />
-                                        <Key frame="25" value="0.114" />
+                                        <Key frame="16" value="0.01" />
+                                        <Key frame="25" value="0.02" />
                                         <Key frame="31" value="0.01" />
-                                        <Key frame="36" value="0.56" />
+                                        <Key frame="36" value="0.02" />
                                         <Key frame="46" value="0" />
                                         <Key frame="70" value="0.00480002" />
                                         <Key frame="85" value="0" />
-                                        <Key frame="111" value="0.0548" />
+                                        <Key frame="111" value="0.01" />
                                         <Key frame="141" value="0.01" />
                                         <Key frame="159" value="0.01" />
                                     </ActuatorCurve>

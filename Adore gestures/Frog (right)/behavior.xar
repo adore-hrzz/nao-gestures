@@ -536,8 +536,8 @@ class MyClass(GeneratedClass):
                                         <Key frame="159" value="15.3786" />
                                     </ActuatorCurve>
                                     <ActuatorCurve name="value" actuator="RHand" recordable="0" mute="0" unit="1">
-                                        <Key frame="16" value="0.0743999" />
-                                        <Key frame="25" value="0.114" />
+                                        <Key frame="16" value="0.03" />
+                                        <Key frame="25" value="0.04" />
                                         <Key frame="31" value="0.01" />
                                         <Key frame="46" value="0" />
                                         <Key frame="70" value="0.00480002" />
