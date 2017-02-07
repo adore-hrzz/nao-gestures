@@ -19,7 +19,7 @@ wget -O ovo_je_zaba.wav "https://drive.google.com/uc?export=download&id=0ByIZc3t
 wget -O ovo_je_salica.wav "https://drive.google.com/uc?export=download&id=https://drive.google.com/open?id=0ByIZc3t3wyJoS3U3aWVITlIxbTA"
 
 # Encouragement for imitation "Hajde, probaj ti", TTS Marica v4.2
-wget -O hajde_probaj_ti.wav "https://drive.google.com/uc?export=download&id=0ByIZc3t3wyJoVEZIbzY4VlFobzg"
+wget -O hajde_pokusaj_ti.wav "https://drive.google.com/uc?export=download&id=0ByIZc3t3wyJoS2NLMFlVRG9BSWs"
 
 # Recouragement for imitation "Probajmo ponovo", TTS Marica v4.2
 wget -O probajmo_ponovo.wav "https://drive.google.com/uc?export=download&id=0ByIZc3t3wyJoVm5pMmFqY1lWNG8"
