@@ -16,8 +16,9 @@ wget -O vidi_ovo.wav "https://drive.google.com/uc?export=download&id=0ByIZc3t3wy
 wget -O ovo_je_zaba.wav "https://drive.google.com/uc?export=download&id=0ByIZc3t3wyJoRGF6Y3N5cnczVm8"
 
 # Introduction to functional imitation "Ovo je salica"
-wget -O ovo_je_salica.wav "https://drive.google.com/uc?export=download&id=https://drive.google.com/open?id=0ByIZc3t3wyJoS3U3aWVITlIxbTA"
+wget -O ovo_je_salica.wav "https://drive.google.com/uc?export=download&id=0ByIZc3t3wyJoS3U3aWVITlIxbTA"
 
+https://drive.google.com/file/d/0ByIZc3t3wyJoS3U3aWVITlIxbTA/view?usp=sharing
 # Encouragement for imitation "Hajde, probaj ti", TTS Marica v4.2
 wget -O hajde_pokusaj_ti.wav "https://drive.google.com/uc?export=download&id=0ByIZc3t3wyJoS2NLMFlVRG9BSWs"
 
