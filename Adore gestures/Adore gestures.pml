@@ -25,11 +25,11 @@
         <File name="ovo_je_zaba" src="sounds/ovo_je_zaba.wav" />
         <File name="probajmo_ponovo" src="sounds/probajmo_ponovo.wav" />
         <File name="vidi_ovo" src="sounds/vidi_ovo.wav" />
+        <File name="ovo_je_salica" src="sounds/ovo_je_salica.wav" />
     </Resources>
     <Topics />
     <IgnoredPaths>
         <Path src=".gitignore" />
-        <Path src=".gitignore~" />
         <Path src="icon.png" />
         <Path src="sounds/download_sounds.sh" />
         <Path src="sounds/ovo_je_salica.wav" />
