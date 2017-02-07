@@ -32,5 +32,6 @@
         <Path src=".gitignore~" />
         <Path src="icon.png" />
         <Path src="sounds/download_sounds.sh" />
+        <Path src="sounds/ovo_je_salica.wav" />
     </IgnoredPaths>
 </Package>
