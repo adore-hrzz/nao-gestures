@@ -300,8 +300,8 @@ class MyClass(GeneratedClass):
                                     <ActuatorCurve name="value" actuator="RWristYaw" recordable="1" mute="0" unit="0">
                                         <Key frame="25" value="-3.69386" />
                                         <Key frame="49" value="-4.48488" />
-                                        <Key frame="75" value="2.81013" />
-                                        <Key frame="79" value="2.81013" />
+                                        <Key frame="75" value="41.2" />
+                                        <Key frame="79" value="39.1" />
                                         <Key frame="104" value="-4.48488" />
                                         <Key frame="150" value="-3.69386" />
                                     </ActuatorCurve>
