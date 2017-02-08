@@ -14,6 +14,9 @@
         <BehaviorDescription name="behavior" src="Pokusajmo ponovo" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="Assist (left)" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="Assist (right)" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="Return (Frog, left)" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="Return (Frog, right)" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="Return (Drinking, left)" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
     <Resources>
