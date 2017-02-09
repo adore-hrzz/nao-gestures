@@ -32,9 +32,8 @@
     <Topics />
     <IgnoredPaths>
         <Path src=".gitignore" />
-        <Path src="manifest.xml~" />
         <Path src="icon.png" />
         <Path src="sounds/download_sounds.sh" />
-        <Path src="Drinking (right)/behavior.xar~" />
+        <Path src="sounds/ovo_je_salica.wav" />
     </IgnoredPaths>
 </Package>
