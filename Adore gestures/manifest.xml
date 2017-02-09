@@ -105,9 +105,5 @@
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="Return (Drinking, left)">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
  </contents>
 </package>

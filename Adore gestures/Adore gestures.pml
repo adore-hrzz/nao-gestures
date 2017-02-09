@@ -16,7 +16,6 @@
         <BehaviorDescription name="behavior" src="Assist (right)" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="Return (Frog, left)" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="Return (Frog, right)" xar="behavior.xar" />
-        <BehaviorDescription name="behavior" src="Return (Drinking, left)" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
     <Resources>
@@ -33,7 +32,9 @@
     <Topics />
     <IgnoredPaths>
         <Path src=".gitignore" />
+        <Path src="manifest.xml~" />
         <Path src="icon.png" />
         <Path src="sounds/download_sounds.sh" />
+        <Path src="Drinking (right)/behavior.xar~" />
     </IgnoredPaths>
 </Package>
